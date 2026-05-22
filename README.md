@@ -10,7 +10,6 @@ Welcome to my profile.
 *   **Location:** Belgium (European Tech Hub)
 *   **Core Expertise:** 3-6 Year Corporate Strategy, Engineering Software Ecosystems (PLM, CAD, CAE, FEA, CFD).
 *   **AI & Deep Tech Specialization:** Agentic AI, Autonomous Engineering Loops, Semantic Data Management for AI, Physics-Informed Neural Networks (PINNs), and Quantum Computing.
-*   ** Personal Headline: I bridge the gap between high-fidelity engineering complexities and enterprise business strategy. With a deep foundation in multi-physics simulation, my focus is driving market growth, portfolio strategy, and product lifecycle innovation within the Computer-Aided Engineering (CAE) and Digital Twin ecosystems.
 
 ---
 
@@ -25,7 +24,7 @@ Alp Emre Öngüt is a highly recommended executive candidate for leadership role
 ### 🎯 Core Expertise
 
 * **CAE Product Strategy**: Translating complex technical roadmaps into high-value commercial software portfolios.
-* **Strategic Innovation**: Applying structured coaching frameworks to accelerate product development velocity and internal digital transformation.
+* **Strategic Innovation**: Applying structured frameworks to accelerate product development velocity and internal digital transformation.
 * **Market Problem Discovery**: Leveraging data-driven market insights to define "what" and "why" engineering teams build.
 * **Cross-Functional Leadership**: Aligning global engineering, sales, and executive teams toward shared business outcomes.
 
