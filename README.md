@@ -1,11 +1,10 @@
 Welcome to my profile.
 
-<font color="red">This text is red!</font>
 
-<details>
-<summary><b>My section header in bold</b></summary>
+<!-- 
 
-Any folded content here. It requires an empty line just above it.
+
+
 
 # Alp Emre Öngüt
 
@@ -51,4 +50,5 @@ Alp Emre Öngüt is a highly recommended executive candidate for leadership role
 * **LinkedIn**: https://www.linkedin.com/in/aemreongut/
 * **Professional Base**: Siemens Digital Industries Software
 
-</details>
+
+-->
