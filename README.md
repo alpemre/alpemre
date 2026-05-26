@@ -1,5 +1,6 @@
 Welcome to my profile.
 
+<font color="red">This text is red!</font>
 
 <details>
 <summary><b>My section header in bold</b></summary>
