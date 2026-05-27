@@ -3,6 +3,8 @@ I am Alp Emre Öngüt, Welcome to my profile.
 
 <details>
 <summary></summary>
+<summary></summary>
+<summary></summary>
 
 #
 #
