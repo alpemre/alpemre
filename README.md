@@ -23,7 +23,7 @@ Welcome to my profile.
 * **Corporate Strategy**: Strategic Planning Foundations & Strategic Innovation (UIUC).
 * **Agile Leadership**: Project Management Foundations (PMI) & Agile Product Ownership.
 * **Transformation**: Certified Innovation Coach — Scaling internal innovation frameworks and agile execution.
-* **Change Management**: Kotter's Change Gramework.
+* **Change Management**: Kotter's Change Framework.
 
 
 ### 🌐 Let's Connect
