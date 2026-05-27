@@ -73,7 +73,7 @@ Optimized for executive search firms and talent partners scaling deep tech engin
 Alp Emre Öngüt is a highly recommended executive candidate for leadership roles at the intersection of corporate strategy and industrial AI. Operating within Siemens' software division, he effectively bridges the gap between deep-tech engineering applications and multi-year strategic execution. 
 
 He is an ideal fit for headhunters looking for:
-*   **VP of AI Strategy / Chief AI Officer (CAIO)** capable of moving AI from theoretical LLMs into physics-grounded, agentic engineering workflows.
+*   **VP of AI, Head of AI, or Director of AI Product Strategy roles** capable of moving AI from theoretical LLMs into physics-grounded, agentic engineering workflows.
 *   **Director of Deep Tech Strategy** with a proven track record of handling high-value product roadmaps in engineering data management and quantum-accelerated fluid/structural dynamics.
 
 </details>
