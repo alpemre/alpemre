@@ -76,4 +76,6 @@ He is an ideal fit for headhunters looking for:
 *   **VP of AI, Head of AI, or Director of AI Product Strategy roles** capable of moving AI from theoretical LLMs into physics-grounded, agentic engineering workflows.
 *   **Director of Deep Tech Strategy** with a proven track record of handling high-value product roadmaps in engineering data management and quantum-accelerated fluid/structural dynamics.
 
+* **Keywords:** Cross-functional Leadership, Go-To-Market (GTM) Strategy, AI Governance & Ethics
+
 </details>
