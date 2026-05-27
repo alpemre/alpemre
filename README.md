@@ -1,13 +1,7 @@
 I am Alp Emre Öngüt, Welcome to my profile.
 
-<details>
-  <summary></summary>
-</details>
-
-<details>
-  <summary></summary>
-</details>
-
+<details> <summary></summary></details>
+<details> <summary></summary></details>
 
 <details>
 <summary></summary>
