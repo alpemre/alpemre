@@ -1,4 +1,7 @@
-I am Alp Emre Öngüt, Welcome to my profile.
+Hi, I’m Alp Emre Ongut, a Senior Research Engineer at Siemens.
+Welcome to my profile.
+
+I worked on CFD & HPC, aeroelastic simulation, wind energy, and numerical methods.”
 
 <meta name="google-site-verification" content="n1BeSHR_okJ1RCA6mCKXeBJH6yHqKROgV0AO8V5bqKQ" />
 
