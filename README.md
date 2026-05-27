@@ -1,9 +1,9 @@
-Hi, I’m Alp Emre Öngüt, an Innovation Lead at Siemens.
+Hi, I’m Alp Emre Öngüt, an Innovation Strategy Specialist at Siemens.
 Welcome to my profile.
 
 ### Profile:
 
-*   **Current Role:** Corporate Strategy Specialist & Product Management Leader, Siemens (Software Division)
+*   **Current Role:** Corporate Strategy Specialist, Siemens (Software Division)
 *   **Location:** Belgium (European Tech Hub)
 *   **Core Expertise:** 3-6 Year Corporate Strategy, Engineering Software Ecosystems (PLM, CAD, CAE, FEA, CFD).
 *   **AI & Deep Tech Specialization:** Agentic AI, Autonomous Engineering, Data Management for AI, Physics AI, Quantum Computing.
@@ -13,8 +13,8 @@ Welcome to my profile.
 
 * **CAE Product Strategy**: Translating complex technical roadmaps into high-value commercial software portfolios.
 * **Strategic Innovation**: Applying structured frameworks to accelerate product development velocity and internal digital transformation.
-* **Market Problem Discovery**: Leveraging data-driven market insights to define "what" and "why" engineering teams build.
-* **Cross-Functional Leadership**: Aligning global engineering, sales, and executive teams toward shared business outcomes.
+* **Market Problem Discovery**: Leveraging data-driven market insights to define "what" and "why" innovation teams build.
+* **Cross-Functional Leadership**: Aligning innovation, engineering, and executive teams toward shared business outcomes.
 
 
 ### 🧰 Frameworks & Certifications
@@ -32,6 +32,7 @@ Welcome to my profile.
 <details> <summary></summary></details>
 <details> <summary></summary></details>
 <details><summary></summary>
+
 #
 #
 #
